@@ -17,17 +17,17 @@ export const MovieState = () => {
         {
           title: "Truly A masterpiece",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“Regardless of the situation, regardless of the scoreboard, you’re going to be successful because you’ve put in all the time, all the effort, all the hard work, and you know that it’s going to pay off.”",
         },
         {
           title: "Fresh look on a brutal sport.",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“It’s okay to cry because we’re not going to play together anymore. But we’re going to be friends forever.”",
         },
         {
-          title: "It’s okay lmao.",
+          title: "Mad Piece.",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“Creating the most valuable image in world History and its all bam.”",
         },
       ],
     },
@@ -40,17 +40,17 @@ export const MovieState = () => {
         {
           title: "Truly A masterpiece",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“Regardless of the situation, regardless of the scoreboard, you’re going to be successful because you’ve put in all the time, all the effort, all the hard work, and you know that it’s going to pay off.”",
         },
         {
           title: "Fresh look on a brutal sport.",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“It’s okay to cry because we’re not going to play together anymore. But we’re going to be friends forever.”",
         },
         {
-          title: "It’s okay lmao.",
+          title: "Mad piece.",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“Creating the most valuable image in world History and its all bam.”",
         },
       ],
     },
@@ -63,17 +63,17 @@ export const MovieState = () => {
         {
           title: "Truly A masterpiece",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“Regardless of the situation, regardless of the scoreboard, you’re going to be successful because you’ve put in all the time, all the effort, all the hard work, and you know that it’s going to pay off.”",
         },
         {
           title: "Fresh look on a brutal sport.",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“It’s okay to cry because we’re not going to play together anymore. But we’re going to be friends forever.”",
         },
         {
-          title: "It’s okay lmao.",
+          title: "Mad piece.",
           description:
-            "“Lorem Ipsum is simply dummy text of the printing and typesetting industry.”",
+            "“Creating the most valuable image in world History and its all bam.”",
         },
       ],
     },
